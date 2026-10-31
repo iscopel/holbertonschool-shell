@@ -1,2 +1,3 @@
 # holbertonschool-shell
-Shell basics projects
+
+Shell scripts: I/O redirections and filters.
